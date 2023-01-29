@@ -2,15 +2,18 @@
 layout: base.njk
 title: blog
 ---
+<main>
 <div class="section container">
   <ul role="list" class="articles__list flow">
-    {%- for post in collections.post-%}
-    <li><article class="snippet">
+  {%- for post in collections.post -%}
+    <li>
+    <article class="snippet">
       <h3 class="snippet__title">{{ post.data.title}}</h3>
-            <img src="/{{post.data.image}}" alt="{{post.data,imageAlt}}" class="snippet__image">
+      <img src="{{post.data.image}}" alt="{{post.data,imageAlt}}" class="snippet__image">
       <p class="snippet__meta"><span>{{post.data.author}}</span></p>
-    </article></li>
-    {%- endfor-%}
+    </article>
+    </li>
+  {%- endfor -%}
   </ul>
   </div>
 </main>
