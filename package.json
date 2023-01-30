@@ -6,7 +6,6 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy"
-
   },
   "repository": {
     "type": "git",
