@@ -17,4 +17,3 @@ collections:
       -  { label: "Feautured Image", name: "image", widget: "image" }
       -  { label: "Image caption", name: "imageAlt", widget: "string" }
       -  { label: "Body", name: "body", widget: "markdown" }
-      
