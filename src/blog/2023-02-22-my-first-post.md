@@ -7,5 +7,6 @@ tags:
   - featured
 image: /assets/blog/2023-01-11_07-25.png
 imageAlt: ramdon
+description: blah
 ---
 blah
