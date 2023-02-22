@@ -8,10 +8,7 @@ image: https://i.ytimg.com/vi/de_V6P0RVbg/hqdefault.jpg
 imageAlt: Snapshot of video https://youtu.be/de_V6P0RVbg
 description: Summary of an old February half term
 ---
-```html
-<iframe allowfullscreen="" class="BLOG_video_class" height="386" src="https://www.youtube.com/embed/de_V6P0RVbg" width="404" youtube-src-id="de_V6P0RVbg">
-    </iframe>
-```
+
 
 Welcome to my February half term blog post. In this post there are some of the things I got up to in this half tem holiday.\
 We had a great week.
