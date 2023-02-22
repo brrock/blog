@@ -6,7 +6,7 @@ tags:
   - post
   - featured
 image: /assets/blog/2023-01-11_07-25.png
-imageAlt: ramdon
+imageAlt: random
 description: blah
 ---
 blah
