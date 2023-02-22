@@ -1,3 +1,6 @@
+@import url(https://fonts.bunny.net/css?family=poppins:400);
+
+
 :root {
   --fs-300: 0.9375rem;
   --fs-400: 1.0625rem;
@@ -5,17 +8,15 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
 
   --fw-400: 400;
   --fw-700: 700;
   --fw-900: 900;
 
-  --clr-primary-200: hsla(169, 70%, 95%, 1);
-  --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
-  --clr-primary-500: hsla(169, 100%, 16%, 1);
+  --clr-primary-200: #e9fbf8;
+  --clr-primary-300: #00c7a2;
+  --clr-primary-400: #2600ff;
+  --clr-primary-500: #005243;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -58,7 +59,9 @@ dl,
 dd {
   margin: 0;
 }
-
+ p {
+  font-size: 18px;
+ }
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
 ul:where([role="list"]),
 ol:where([role="list"]) {
@@ -87,7 +90,7 @@ a:not([class]) {
 /* Make images easier to work with */
 img,
 picture {
-  max-width: 100%;
+  max-width: 50%;
   display: block;
 }
 
@@ -120,7 +123,7 @@ select {
   /////////////////////// */
 
 body {
-  font-family: var(--ff-body);
+  font-family: Poppins;
   font-size: var(--fs-400);
   color: var(--clr-neutral-900);
 }
@@ -128,9 +131,9 @@ body {
 h1,
 h2,
 h3 {
-  font-family: var(--ff-heading);
+  font-family: inherit;
   font-weight: var(--fw-900);
-  line-height: 1.1;
+  line-height: 1;
 }
 
 strong {
