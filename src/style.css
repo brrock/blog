@@ -7,22 +7,19 @@
   --fs-500: 1.375rem;
   --fs-600: 1.875rem;
   --fs-700: 2rem;
-
-
   --fw-400: 400;
   --fw-700: 700;
   --fw-900: 900;
-
-  --clr-primary-200: #e9fbf8;
+  --clr-primary-200: #c2f3f7;
   --clr-primary-300: #305094;
   --clr-primary-400: #0000B3;
-  --clr-primary-500: #1e1199;
+  --clr-primary-500: #193EFF;
 
-  --clr-neutral-100: hsla(0, 0%, 100%, 1);
-  --clr-neutral-300: hsla(0, 0%, 50%, 1);
-  --clr-neutral-400: hsla(0, 0%, 40%, 1);
-  --clr-neutral-500: hsla(0, 0%, 60%, 1);
-  --clr-neutral-900: hsla(0, 0%, 10%, 1);
+  --clr-neutral-100: #ffffff;
+  --clr-neutral-300: #808080;
+  --clr-neutral-400: #666666;
+  --clr-neutral-500: #999999;
+  --clr-neutral-900: #1a1a1a;
 }
 
 @media (min-width: 35em) {
