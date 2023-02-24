@@ -96,8 +96,8 @@ Once they are nicely browned, transfer the pancakes to your serving plates.  
 
 Place fresh cream on the pancakes and top with berries. Dust the pancake with icing sugar and drizzle with maple syrup. Enjoy!  
 
-### \
- **\    recipe two American pancakes**
+### 
+ **    recipe two American pancakes**
 
 
 
