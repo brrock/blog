@@ -13,8 +13,7 @@ description: Pancake time!
 It is Pancake Day on Tuesday 16th February! In this post there are three great pancake recipes - my favourite is number three! You can have them for breakfast or dessert.  Enjoy. 
 
 
-
-###  ***Recipe 1 - Souffle pancakes***
+  ***Recipe 1 - Souffle pancakes***
 
 Japanese soufflé pancakes inspired from Junior Bake Off!  We so loved watching this on the tv and when we saw their technical baking task of Japanese souffle pancakes we had to try them even though they were a bit tricky! 
 
