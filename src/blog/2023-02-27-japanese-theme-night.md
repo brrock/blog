@@ -4,6 +4,7 @@ author: BR
 date: 2021-01-14T10:31:03.841Z
 tags:
   - post
+  - archive
 image: https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-nvLGAA2-i37t9dHOhKpBouLxQF23WdJuYCwa7MNoSg3Gb5wX6gWr2rVkG8RxdkLyCmRFpcIyzEkE9scGxKReauoKacD52116WAtjRhUCZucF-GMw=w128-h128-n-k-no-nu
 imageAlt: "Japanese chicken "
 description: Welcome to the Japanese theme night we did last weekend!!

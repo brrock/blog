@@ -3,7 +3,7 @@ title: Pizza fun - making pizzas
 author: BR
 date: 2020-09-21T09:20:31.554Z
 tags:
-  - post
+  - archive
 image: https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-kGf-uFQHmrpGmrwsGtiaBOFHJaQ58ij_wSg7AbqZNF2lQBmntCFwx2Z4o-5wSV4oAiMxqyMYai4FQzPZhn2IkLsyqRrnaeNDKViisVcqNmiFtGmg=w128-h128-n-k-no-nu
 imageAlt: Pizza
 description: I love pizza! I love making pizza too, doesn't everyone?

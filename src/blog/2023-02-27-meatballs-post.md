@@ -4,6 +4,7 @@ author: BR
 date: 2021-01-01T10:37:35.774Z
 tags:
   - post
+  - archive
 image: https://1.bp.blogspot.com/-YpycXS4seno/X-3lNL_6dkI/AAAAAAAAZBU/kVGb8WXNTKcWYzDdSBFt2g0hHZHwhk7NQCLcBGAsYHQ/s320/my%2Bcook%2Bbook%2B1.jpeg
 imageAlt: The book
 description: "   A yummy recipe from 'Cool Kids Cook', my new cookery book from

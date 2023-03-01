@@ -4,6 +4,7 @@ author: BR
 date: 2020-11-14T10:09:46.228Z
 tags:
   - post
+  - archive
 image: https://lh3.googleusercontent.com/-JOfSgWus7o4/X6vu6mGeWsI/AAAAAAAAYyI/Fa2OrbnMAzokZuBbmsiFGZMIzPDuOo2pACLcBGAsYHQ/image.png
 imageAlt: The sea
 description: A trip to east suusex

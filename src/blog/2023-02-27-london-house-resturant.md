@@ -4,6 +4,7 @@ author: BR
 date: 2021-05-21T09:15:41.232Z
 tags:
   - post
+  - archive
 image: /assets/blog/2023-02-27_07-19.png
 imageAlt: Food
 description: A few weeks ago I went to a restaurant for the first time this
