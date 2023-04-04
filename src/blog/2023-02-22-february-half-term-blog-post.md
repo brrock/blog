@@ -6,7 +6,7 @@ tags:
   - post
   - archive
 image: https://i.ytimg.com/vi/de_V6P0RVbg/hqdefault.jpg
-imageAlt: Snapshot of video https://youtu.be/de_V6P0RVbg
+imageAlt: "Snapshot of video "
 description: Summary of an old February half term
 ---
 Welcome to my February half term blog post. In this post there are some of the things I got up to in this half tem holiday. Video: [](https://youtu.be/de_V6P0RVbg)[go](https://youtu.be/de_V6P0RVbg)We had a great week.
