@@ -1,3 +1,3 @@
-# JAMStack personal blog - starter files
+# My personal blog 
 
-Welcome to my blog repo
+Most of the articles are archive but rss feed and tech blog coming very soon.
